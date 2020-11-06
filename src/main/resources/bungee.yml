@@ -1,0 +1,4 @@
+name: AdvancedBungeeLogin
+version: 1.0.0
+description: Advanced login system for BungeeCord
+main: me.theredcat.advancedbungeelogin.Main
